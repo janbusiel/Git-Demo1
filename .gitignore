@@ -1,2 +1,7 @@
+# ignoring file types
 *.log
 *.db
+
+# ignoring directories
+target/
+bin/
